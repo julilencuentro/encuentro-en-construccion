@@ -1,0 +1,49 @@
+---
+layout: default
+---
+
+<!-- page title -->
+<section class="page-title-alt bg-primary position-relative">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <h1 class="text-white without-spacing">----</h1>
+        <h1 class="text-white font-weight-bold font-tertiary">{{ page.title }}</h1>
+      </div>
+    </div>
+  </div>
+  <!-- background shapes -->
+  <img src="{{ site.baseurl }}/assets/images/illustrations/porqueaca.png" alt="illustrations" class="bg-shape-1">
+</section>
+<!-- /page title -->
+
+<!-- porque1.md -->
+<section class="section-light pt-5">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        {{ content }}
+      </div>
+    </div>
+  </div>
+</section>
+<!-- videos -->
+<section class="section pt-3">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-4">
+        <video controls class="embed-responsive embed-responsive-16by9">
+          <source src="{{ site.baseurl }}/assets/videos/porque-4sep-video.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      </div>
+      <div class="col-md-6">
+        <video controls class="embed-responsive embed-responsive-16by9">
+          <source src="{{ site.baseurl }}/assets/videos/porque-4ago-video.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /porque -->
