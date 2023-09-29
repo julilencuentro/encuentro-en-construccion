@@ -34,8 +34,8 @@ google-analytics: # UA-XXXXXX-X
 # Main Section
 
 main:
-  main-titulo: 36° Encuentro Plurinacional de Mujeres, Lesbianas, Travestis, Trans, Bisexuales, Intersexuales y No Binaries </br>
-  main-subtitulo: FURILOFCHE - BARILOCHE
+  main-titulo: 36° Encuentro Plurinacional de Mujeres, Lesbianas, Travestis, Trans, Bisexuales, Intersexuales y No Binaries.
+  main-subtitulo: FURILOFCHE / BARILOCHE 2023
   main-button-texto: ¿QUÉ ES?
   main-button-url: "/quees"
   main-button-texto-2: VER CRONOGRAMA

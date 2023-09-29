@@ -303,7 +303,8 @@ a:hover {
 }
 
 .font-secondary {
-  font-family: $secondary-font !important;
+  font-family: $secondary-font;
+  font-weight: normal
 }
 
 .font-tertiary {
